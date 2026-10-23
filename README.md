@@ -1,6 +1,7 @@
-# Fireplaces page preview
+# Client preview
 
-Client review build of the Maritime Stone & Decor fireplaces page.
-Built files only; every page is noindex and the forms are disabled.
+Review builds of draft Maritime Stone & Decor pages. Built files only;
+every page is noindex and the forms are disabled.
 
-Preview: https://isaacochoabii.github.io/msd-fireplaces-preview/fireplaces
+- Fireplaces: https://isaacochoabii.github.io/msd-fireplaces-preview/fireplaces
+- Tools & equipment: https://isaacochoabii.github.io/msd-fireplaces-preview/tools-and-equipment
